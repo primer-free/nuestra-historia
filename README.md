@@ -9,28 +9,28 @@
             font-family: 'Arial', sans-serif;
             background: linear-gradient(to bottom, #ffcccc, #ff99cc);
             text-align: center;
-            padding: 50px;
+            padding: 40px;
             color: #333;
         }
         .container {
             background: white;
             padding: 30px;
-            border-radius: 15px;
-            box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+            box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.2);
             display: inline-block;
-            max-width: 600px;
+            max-width: 400px;
             animation: fadeIn 1s ease-in-out;
         }
         h1 {
             color: #e60000;
-            font-size: 28px;
+            font-size: 15px;
         }
         h2 {
             color: #d60000;
         }
         p {
-            font-size: 18px;
-            line-height: 1.6;
+            font-size: 12px;
+            line-height: 1;
         }
         .capitulo {
             display: none;
@@ -43,11 +43,11 @@
             display: inline-block;
             background: #e60000;
             color: white;
-            padding: 12px 25px;
+            padding: 12px 12px;
             text-decoration: none;
             border-radius: 8px;
-            font-size: 18px;
-            margin-top: 20px;
+            font-size: 12px;
+            margin-top: 15px;
             transition: 0.3s ease-in-out;
         }
         .btn:hover {
