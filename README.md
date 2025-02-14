@@ -1,7 +1,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-7">
-    <meta name="viewport" content="width=device-width, initial-scale=0.78">
+    <meta name="viewport" content="width=device-width, initial-scale=0.75">
 
     <style>
         body {
