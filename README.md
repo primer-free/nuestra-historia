@@ -1,7 +1,7 @@
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=0.80">
+    <meta charset="UTF-7">
+    <meta name="viewport" content="width=device-width, initial-scale=0.70">
 
     <style>
         body {
@@ -13,7 +13,7 @@
         }
         .container {
             background: white;
-            padding: 30px;
+            padding: 20px;
             border-radius: 12px;
             box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.2);
             display: inline-block;
